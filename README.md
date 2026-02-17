@@ -1,4 +1,7 @@
-## Hi there 👋
+Hi, I’m Chengbie Mulle👋  
+I build web applications and digital tools that help people and businesses get things done.  
+I enjoy challenges, creating dependable code, and discovering new technologies.
+
 
 <!--
 **Che04030200/Che04030200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
