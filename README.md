@@ -85,7 +85,7 @@ Next.js • Tailwind CSS • Vercel
 
 ### LinkedIn
 
-([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/chengbie-mulle-805255350/))
+[https://linkedin.com/in/chengbie-mulle-805255350/](https://www.linkedin.com/in/chengbie-mulle-805255350/)
 
 ---
 
